@@ -45,7 +45,7 @@ On the "Shopping List" screen, the user can add as many items as they want. Simp
 
 ### 🧑 Profile
 
-On the "Profile" screen, we can view all the data of the logged-in user. There, the user can update the username and profile picture, if desired. The option to update the password is also offered. When pressing the "Update Password" button, a modal window opens where the user must enter the current password registered in the database, then select a new password within the validation rules and, finally, enter the new password again. If all the data is correct, pressing the "Update" button updates the password in the database.
+On the "Profile" screen, we can view all the data of the logged-in user. There, the user can update the username and profile picture, if desired. The option to update the password is also offered. When pressing the "Change Password" button, a modal window opens where the user must enter the current password registered in the database, then select a new password within the validation rules and, finally, enter the new password again. If all the data is correct, pressing the "Update" button updates the password in the database.
 
 In the upper right corner of the page, there is also the logout button. When pressed, the user is logged out of the application, returning to the login screen and leaving the JWT token as null.
 
