@@ -1,5 +1,7 @@
 # Sabores Digitais
 
+Android application developed as an Undergraduate Project, meeting all established requirements, in the form of a Technical Report per discipline. The chosen discipline was "Mobile Device Development", under the guidance of Dr. Gerson Penha.
+
 ## 📑 Table of Content
 
 * [Application Overview](https://github.com/EduardaGiudice/SaboresDigitais#-application-overview)
@@ -52,6 +54,16 @@ In the upper right corner of the page, there is also the logout button. When pre
 ## 📌 Challenge
 
 We live in a time of digital culture, which has revolutionized the way we do everything in our lives, from the way we work, study, entertain ourselves, and even the way we cook. While old recipe books, although valuable, face limitations in terms of storage and accessibility, digital technologies, especially mobile devices, offer new possibilities for interaction and sharing. The need arose to develop a solution that combines the richness of culinary traditions with the practicality and mobility provided by technology, overcoming the limitations of traditional means of accessing recipes. 
+
+## 🏁 Project
+
+Sabores Digitais is a social network for cooking lovers, providing a complete and integrated experience. The application was designed to offer features such as:
+
+- Explore a recipe feed, allowing users to discover and post recipes in an intuitive and interactive way;
+- Create recipe posts, with the ability to include photos taken directly from the camera or selected from the device's gallery;
+- Manage personal posts, allowing users to edit, delete and organize their own recipes;
+- Create and manage a shopping list, making it easier to send the necessary ingredients for the desired recipes;
+- View and edit your own data displayed in the application, including your profile picture.
 
 
 ## 🏅 Prioritized User Stories
