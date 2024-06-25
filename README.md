@@ -21,7 +21,7 @@ The user can create an account and log in to the application. All fields are val
 
 ### 🍣 Recipe Feed
 
-The "Recipe Feed" screen displays all recipes posted by all users. Each recipe is represented by a photo of the recipe, its name, a brief description, and the date it was posted. In addition, there are the "Like" buttons, which allow you to like the post if you liked it, and the "Comments" button, which opens a screen displaying all comments made on that specific post, also allowing you to add a new comment. Finally, there is the "View Recipe" button, which, when pressed, displays more information about the recipe, such as the ingredients and preparation method, for example.
+The "Recipe Feed" screen displays all recipes posted by all users. Each post is represented by a photo of the recipe, its name, a brief description, the date it was posted, and the name and profile picture of the user who posted the recipe. In addition, there are the "Like" buttons, which allow you to like the post if you liked it, and the "Comments" button, which opens a screen displaying all comments made on that specific post, also allowing you to add a new comment. Finally, there is the "View Recipe" button, which, when pressed, displays more information about the recipe, such as the ingredients and preparation method, for example.
 
 <img src="https://github.com/EduardaGiudice/SaboresDigitais/blob/main/docs/Feed.gif" width="250" height="550">
 
